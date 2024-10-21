@@ -1,1 +1,4 @@
-Hello Universe
+Greetings Universe!
+
+Which planet did you come from?
+where are you traveling to?
